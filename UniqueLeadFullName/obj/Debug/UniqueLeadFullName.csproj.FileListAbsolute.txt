@@ -1,0 +1,14 @@
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\UniqueLeadFullName.dll.config
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\UniqueLeadFullName.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\UniqueLeadFullName.pdb
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\obj\Debug\UniqueLeadFullName.csprojAssemblyReference.cache
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\obj\Debug\UniqueLeadFullName.csproj.CoreCompileInputs.cache
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\obj\Debug\UniqueLeadFullName.csproj.CopyComplete
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\obj\Debug\UniqueLeadFullName.dll
+C:\Users\mail4\OneDrive\UniqueLeadFullName\UniqueLeadFullName\obj\Debug\UniqueLeadFullName.pdb
